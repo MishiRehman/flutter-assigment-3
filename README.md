@@ -6,20 +6,6 @@ A new Flutter project.
 
 ## Output
 
-#### Home Page
-<img  alt="HTML5" width="300px" src="./output/1.PNG" />
-
-### Screen 1
-<img  alt="HTML5" width="300px" src="./output/2.PNG" />
-
-
-<img  alt="HTML5" width="300px" src="./output/3.PNG" />
-
-### Screen 2
-<img  alt="HTML5" width="300px" src="./output/4.PNG" />
-
-### Screen 3
-<img  alt="HTML5" width="300px" src="./output/5.PNG" />
 
 
 ## Getting Started
